@@ -1,0 +1,4 @@
+main: "io.github.joajoajoajpedroj.PluginEntry"
+version: "0.1-BETA"
+name: "Random Imager"
+api-version: "1.16"
